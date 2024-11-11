@@ -50,13 +50,6 @@ Hey there! I'm **Professor**, a passionate student, web developer, and programme
 ## 🌱 Learning & Growth
 I’m continuously learning and exploring new technologies. Whether it's mastering new frameworks or enhancing my design skills, I'm all about growth.
 
----
-
-## 📫 Let's Connect
-- **Telegram**: [@professor906](https://t.me/professor906)
-
----
-
 > "Building a better web, one line of code at a time."
 
 ---
